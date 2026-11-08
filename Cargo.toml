@@ -1,0 +1,10 @@
+[package]
+name = "ocypus-a40"
+version = "0.1.0"
+edition = "2021"
+description = "Linux userspace utility for the Ocypus Iota A40 cooler display"
+license = "GPL-3.0-only"
+repository = "https://github.com/ijash/Ocypus-Iota-A40-for-Linux"
+readme = "README.md"
+
+[dependencies]
